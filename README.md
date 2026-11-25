@@ -1,4 +1,4 @@
-Ashleigh Gamuchirai Mutukwa
+Ashleigh Gamuchirai Mutukwa:
 Computer Science Student
 
 I am a Computer Science student at Great Zimbabwe University with an interest in software development and building practical technology solutions.
